@@ -2,8 +2,6 @@
 
 코프링과 리액틀린을 사용했습니닼ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
 
-![](https://media.discordapp.net/attachments/1036162758875549761/1178279818001907782/image.png?ex=65759197&is=65631c97&hm=a9cdee58ba284f9e196cf79d7233a2932eb3d196f2682283bf3c7d164e0e1a85&=&format=webp&width=2160&height=1142)
-
 ### Server
 
 <table>
@@ -43,3 +41,5 @@
         <td align="center">코틀린 리액트 쿼리</td>
     </tr>
 </table>
+
+![](https://media.discordapp.net/attachments/1036162758875549761/1178279818001907782/image.png?ex=65759197&is=65631c97&hm=a9cdee58ba284f9e196cf79d7233a2932eb3d196f2682283bf3c7d164e0e1a85&=&format=webp&width=2160&height=1142)
